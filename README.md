@@ -1,4 +1,4 @@
- 
+![Header](./your-header-image-name.png)
  
 <h2 align="left">Hi There 👋 I'm Lina</h2>
 <div align="left">
