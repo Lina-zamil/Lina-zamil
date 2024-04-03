@@ -2,9 +2,9 @@
  
 <h2 align="left">Hi There 👋 I'm Lina</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/lina-zamil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=808080&logoColor=white&labelColor=& "  alt="linkedin logo" />
-  </a> 
+  <link href="https://www.linkedin.com/in/lina-zamil/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=808080&logoColor=white&labelColor=& "alt="linkedin logo" />
+  </link> 
  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil&"  />
 </div>
