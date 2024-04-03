@@ -3,11 +3,11 @@
 <h2 align="left">Hi There 👋 I'm Lina</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/lina-zamil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>   
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil&"  />
 </div>
-<h5 align="left">🚀Would love to connect with different people and collaborate on projects together!</h5>
+<h5 align="left">🚀Would love to connect with different people and collaborate on projects together !</h5>
 
  
 <!--<h3 align="left"> About Me</h3>
