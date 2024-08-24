@@ -1,12 +1,10 @@
  
 <h2 align="left">Hi There 👋 I'm Lina</h2>
 <div align="left">
+   
+  
  
- 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=808080&logoColor=white&labelColor=& "alt="linkedin logo" />
-  </a> 
- 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lina-zamil.lina-zamil"  />
 </div>
 <h5 align="left">🚀Would love to connect with different people and collaborate on projects together !</h5>
 
